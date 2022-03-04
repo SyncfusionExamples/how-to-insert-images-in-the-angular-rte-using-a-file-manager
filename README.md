@@ -1,6 +1,6 @@
-# How to Insert Images in the Syncfusion Angular RTE Using a File Browser
+# How to Insert Images in the Syncfusion Angular RTE Using a File Manager
 
-A quick start Angular project that shows how to browse for and insert images into a Syncfusion Angular Rich Text Editor component using a file browser.
+A quick start Angular project that shows how to browse for and insert images into a Syncfusion Angular Rich Text Editor component using a file manager.
 
 Examples: https://ej2.syncfusion.com/angular/demos/#/material/rich-text-editor/file-browser 
  
