@@ -6,7 +6,7 @@ This repository contains a **quick‑start Angular sample** that demonstrates ho
 The sample illustrates integrating a file‑browsing experience with the Rich Text Editor, allowing users to select images from a file system and insert them directly into editor content.
 
 ## Project Overview
-The purpose of this project is to help developers understand how to configure and use the Syncfusion Angular Rich Text Editor with a File Manager for image insertion. It provides a reference implementation for adding file‑browser support to a rich text editing workflow in an Angular application.
+The purpose of this project is to help developers understand how to configure and use the [Syncfusion Angular Rich Text Editor](https://www.syncfusion.com/angular-components/angular-rich-text-editor) with a File Manager for image insertion. It provides a reference implementation for adding file‑browser support to a rich text editing workflow in an Angular application.
 
 ## Features
 - Integration of **Syncfusion Angular Rich Text Editor**
