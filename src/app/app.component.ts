@@ -8,7 +8,7 @@ import { FileManagerSettingsModel } from '@syncfusion/ej2-angular-richtexteditor
 })
 export class AppComponent {
   title = 'angular-richtexteditor';
-  hostURL : string = 'https://ej2-aspcore-service.azurewebsites.net/';
+  hostURL : string = 'https://physical-service.syncfusion.com/';
 
   fileManagerSettings: FileManagerSettingsModel = {
 
